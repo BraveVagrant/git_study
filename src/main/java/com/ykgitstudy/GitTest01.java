@@ -9,5 +9,6 @@ public class GitTest01 {
         System.out.println("==========GitTest01 test01==========");
         System.out.println("==========GitTest01 test02==========");
         System.out.println("==========GitTest01 test03==========");
+        System.out.println("==========GitTest01 test01 by hot_fix==========");
     }
 }
