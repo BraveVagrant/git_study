@@ -15,5 +15,6 @@ public class GitTest01 {
         System.out.println("==========modify by master==========");
         System.out.println("==========pull test by vagant in master==========");
         System.out.println("==========gitee push test in master==========");
+        System.out.println("==========gitee pull test in master by 飞扬==========");
     }
 }
