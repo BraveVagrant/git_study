@@ -8,5 +8,6 @@ public class GitTest02 {
     public static void main(String[] args) {
         System.out.println("========GetTest02 test 01========");
         System.out.println("========GetTest02 test02 by master========");
+        System.out.println("========pull test by vagrant in master ========");
     }
 }
