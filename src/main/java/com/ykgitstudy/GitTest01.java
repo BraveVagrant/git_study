@@ -13,5 +13,6 @@ public class GitTest01 {
         System.out.println("==========conflict merge test by hot_fix==========");
         System.out.println("==========conflict merge test by master==========");
         System.out.println("==========modify by master==========");
+        System.out.println("==========pull test by vagant in master==========");
     }
 }
